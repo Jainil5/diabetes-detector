@@ -1,5 +1,5 @@
 # diabetes-detector
-A deep learning model to detect diabetes from the information you provide.
+### A deep learning model to detect diabetes from the information you provide.
 
 # You need to input these fields for detection:
 ### 1. Pregnancies, 
