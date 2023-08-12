@@ -1,0 +1,4 @@
+numpy
+pandas
+torch>=2.0.1+cu118
+scikit-learn
