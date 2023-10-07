@@ -1,2 +1,4 @@
 venv
 diabetes_model.pt
+__pycache__
+tf.ipynb
